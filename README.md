@@ -9,3 +9,5 @@ This is simple android app showing map with option to search location within the
 <img src="/Snapshots/69395563_387721218607902_4335311384100208640_n.jpg" width="250" alt="My cool pic3"/>
 <img src="/Snapshots/69344051_496432031148805_8977964138206593024_n.jpg" width="250" alt="My cool pic2"/>
 </p>
+
+##### Please do not forget to give me star if it works for you.
